@@ -1,0 +1,1 @@
+# aws-mysecure-vpc-architecture
